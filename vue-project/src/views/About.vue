@@ -7,7 +7,7 @@
 
 <style scoped>
 h1{
-    background-color: rgb(194,202,188);
+    background-color: rgb(203, 184, 206);
     text-align: cesnter;
 }
 h2{ 

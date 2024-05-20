@@ -21,7 +21,7 @@
 <style>
 h1,h2{
     text-align: center;
-    background-color: rgb(194,202,188);
+    background-color: rgb(203, 184, 206);
     font: 700;
     display:block;
     font-size: 2em;

@@ -31,7 +31,7 @@
 
 <style scoped>
 h2{
-    background-color: rgb(194,202,188);
+    background-color: rgb(203, 184, 206);
 }
 
 form {
