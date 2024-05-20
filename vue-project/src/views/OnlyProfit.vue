@@ -1,5 +1,5 @@
 <template>
-    <h3> This is the profit display </h3>
+    <h3> This is the Onboarded Apps display </h3>
     <ProfitDisplay/>
 </template>
 

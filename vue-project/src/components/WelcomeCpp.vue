@@ -1,5 +1,5 @@
 <template>
-    <h1> Welcome to the CPP </h1>   
+    <h1> Welcome to the Datadog Portal </h1>   
 </template>
 
 <script>

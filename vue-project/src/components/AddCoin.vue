@@ -1,20 +1,20 @@
 <template>
     <div id = "container">
         <form id="myForm">
-            <h2>Add Coins</h2>
+            <h2>Submit App</h2>
 
             <div class = "formli">
-                <label for="coin1">Coin Name: </label>
-                <input type="text" id="coin1" required="" placeholder="Enter Coin"><br><br>
+                <label for="coin1">App Name: </label>
+                <input type="text" id="coin1" required="" placeholder="Enter Name"><br><br>
         
-                <label for="ticker1">Ticker:</label>
-                <input type="text" id="ticker1" required="" placeholder="Valid Ticker"><br><br>
+                <label for="ticker1">Department:</label>
+                <input type="text" id="ticker1" required="" placeholder="DSG/IIG/TG"><br><br>
         
-                <label for="buy1">Buy Price: </label>
-                <input type="number" id="buy1" required="" placeholder="Buy Price"><br><br>
+                <label for="buy1">Demands: </label>
+                <input type="number" id="buy1" required="" placeholder="Features to Onboard"><br><br>
         
-                <label for="quant1">Buy Quantity: </label>
-                <input type="number" id="quant1" required="" placeholder="Quantity"><br><br>
+                <label for="quant1">OIC Name: </label>
+                <input type="number" id="quant1" required="" placeholder="Enter OIC"><br><br>
                 
                 <div class = "save">
                 <button id="savebutton" type="button"> Save </button><br><br>

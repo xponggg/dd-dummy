@@ -1,21 +1,18 @@
 <template>
-    <h1 id = "Current"> Current Portfolio </h1>
+    <h1 id = "Current"> Current Onboarded Apps </h1>
 
         <table id="table" class = "auto-index">
             <tr>
-                <th>S.No</th>
-                <th>Coin</th>
-                <th>Ticker</th>
-                <th>Buy_Price</th>
-                <th>Buy_Quantity</th>
-                <th>Current_Price</th>
-                <th>Profit</th>
-                <th>Options</th>
+                <th>App Name</th>
+                <th>Department</th>
+                <th>Demands</th>
+                <th>Remarks</th>
+                <th>OIC</th>
             </tr>
         </table>
         <br><br>
 
-        <h2 id = "totalProfit"> TP </h2>
+        <h2 id = "totalProfit"> Thank you </h2>
 </template>
 
 <script>
